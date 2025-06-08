@@ -1,0 +1,21 @@
+{
+    "name": "Jesca Kabarokore",
+    "title": "Fullstack Developer",
+    "tagline": "I build beautiful web experiences.",
+    "image": "../assets/images/Profile.jpeg",
+    "about": "I’m a passionate developer with a focus on creating intuitive, dynamic user experiences.",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git",
+      "Node.js",
+      "UI/UX Expertise",
+      "Responsive Design",
+      "Team Player",
+      "Problem Solving",
+      "Trendy Technologies"
+    ]
+  }
+  

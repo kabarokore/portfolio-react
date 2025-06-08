@@ -1,0 +1,24 @@
+[
+    {
+      "type": "Education",
+      "title": "BSc in Information Technology",
+      "institution": "Adventist University Of Central Africa",
+      "duration": "2021 - 2025",
+      "description": "Focused on software engineering, data structures, and frontend development."
+    },
+    {
+      "type": "Project",
+      "title": "Crime Detection System",
+      "institution": "Final Year Project",
+      "duration": "2025",
+      "description": "Built a smart surveillance system using AI models and camera feeds with real-time alerts."
+    },
+    {
+      "type": "Project",
+      "title": "E-Commerce Web App",
+      "institution": "Coursework Project",
+      "duration": "2024",
+      "description": "Developed a responsive online shop with cart functionality using React and local storage."
+    }
+  ]
+  
