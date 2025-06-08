@@ -20,11 +20,11 @@ A professional single-page portfolio built with React and pure CSS.
 
 ## 🚀 Live Demo
 
-[https://kabarokore.netlify.app](https://your-portfolio-url.netlify.app)
+[https://kabarokore.netlify.app](https://kabarokore.netlify.app)
 
 ## 🛠️ Setup
 
 ```bash
 npm install
-npm start
+npm run dev
 ```
