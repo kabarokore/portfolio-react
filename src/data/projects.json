@@ -4,8 +4,8 @@
       "description": "My personal portfolio built with React.",
       "tech": ["React", "CSS"],
       "image": "/assets/images/portfolio.png",
-      "demo": "https://your-portfolio.com",
-      "github": "https://github.com/username/portfolio-react"
+      "demo": "https://kabarokore.netlify.app/",
+      "github": "https://github.com/kabarokore/portfolio-react"
     }
   ]
   
